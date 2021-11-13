@@ -1,0 +1,13 @@
+/vendor
+/.idea
+/.vscode
+/.vagrant
+.phpunit.result.cache
+/database/database.sqlite
+/cache/*.php
+/app/Addons/*.php
+/app/Addons/*.txt
+*.zip
+
+# Local Netlify folder
+.netlify

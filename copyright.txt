@@ -1,0 +1,1 @@
+copyright = "Copyright 2021 [moderneskonzept.netlify.app](https://moderneskonzept.netlify.app)"

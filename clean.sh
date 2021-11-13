@@ -1,0 +1,1 @@
+rm -rf ../panen/data/* && rm -rf ../V42/deploy/public && rm -rf ../V42/deploy/content/post/* && rm -rf ../V42/cache/*

@@ -1,0 +1,1 @@
+[[Free|Get|View]|{{rand(7,20)}}] {{ mb_ucwords($post->keyword) }} [- Yellowimages|Models|Easy Edited|Use Include PSD|Mockups|File Mockups|Prototypes|Packaging|Free|Design]
