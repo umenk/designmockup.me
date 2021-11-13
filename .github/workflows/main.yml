@@ -30,4 +30,4 @@ jobs:
         run: ssh-keyscan -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
 
       - name: Deploy ke server dengan rsync
-        run: rsync -avz ./V42/deploy/public/ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/var/www/designmockup.me/htdocs/
+        run: rsync -avz ./deploy/public/ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/var/www/designmockup.me/htdocs/
